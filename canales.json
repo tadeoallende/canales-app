@@ -1,1 +1,131 @@
-
+{
+  "channels": [
+    {
+      "name": "DW Español",
+      "logo": "",
+      "category": "noticias",
+      "streamType": "hls",
+      "streamUrl": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8"
+    },
+    {
+      "name": "France 24 Español",
+      "logo": "",
+      "category": "noticias",
+      "options": [
+        {
+          "name": "Opción 1",
+          "streamType": "hls",
+          "iframe": "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8"
+        },
+        {
+          "name": "Opción 2",
+          "streamType": "hls",
+          "iframe": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Euronews Español",
+      "logo": "",
+      "category": "noticias",
+      "streamType": "hls",
+      "streamUrl": "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8"
+    },
+    {
+      "name": "Canal 24 Horas (RTVE)",
+      "logo": "",
+      "category": "noticias",
+      "streamType": "hls",
+      "streamUrl": "https://ztnr.rtve.es/ztnr/1694255.m3u8"
+    },
+    {
+      "name": "teleSUR",
+      "logo": "",
+      "category": "noticias",
+      "options": [
+        {
+          "name": "Opción 1",
+          "streamType": "hls",
+          "iframe": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8"
+        },
+        {
+          "name": "Opción 2",
+          "streamType": "hls",
+          "iframe": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "DW English",
+      "logo": "",
+      "category": "internacionales",
+      "streamType": "hls",
+      "streamUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8"
+    },
+    {
+      "name": "France 24 English",
+      "logo": "",
+      "category": "internacionales",
+      "options": [
+        {
+          "name": "Opción 1",
+          "streamType": "hls",
+          "iframe": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8"
+        },
+        {
+          "name": "Opción 2",
+          "streamType": "hls",
+          "iframe": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Euronews English",
+      "logo": "",
+      "category": "internacionales",
+      "streamType": "hls",
+      "streamUrl": "https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8"
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "",
+      "category": "internacionales",
+      "options": [
+        {
+          "name": "Opción 1",
+          "streamType": "hls",
+          "iframe": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8"
+        },
+        {
+          "name": "Opción 2",
+          "streamType": "hls",
+          "iframe": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Chaco TV",
+      "logo": "",
+      "category": "argentina",
+      "streamType": "hls",
+      "streamUrl": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
+    },
+    {
+      "name": "Radio Televisión Neuquén",
+      "logo": "",
+      "category": "argentina",
+      "options": [
+        {
+          "name": "Opción 1",
+          "streamType": "hls",
+          "iframe": "https://media.neuquen.gov.ar/rtn/television/playlist.m3u8"
+        },
+        {
+          "name": "Opción 2",
+          "streamType": "hls",
+          "iframe": "https://media.neuquen.gov.ar/rtn/television/media.m3u8"
+        }
+      ]
+    }
+  ]
+}
