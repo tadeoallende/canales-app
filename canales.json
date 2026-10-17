@@ -3,7 +3,7 @@
     // ==================== NOTICIAS ====================
     {
       "name": "América TV",
-      "logo": "https://bestleague.world/img/america.webp",
+      "logo": "https://bestleague.pl/img/america.webp",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -25,7 +25,7 @@
     },
     {
       "name": "TV Pública",
-      "logo": "https://bestleague.world/img/tvpublica.webp",
+      "logo": "https://bestleague.pl/img/tvpublica.webp",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -63,7 +63,7 @@
     },
     {
       "name": "El Nueve",
-      "logo": "https://bestleague.world/img/nueve.webp",
+      "logo": "https://bestleague.pl/img/nueve.webp",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -93,7 +93,7 @@
     },
     {
       "name": "Telefe",
-      "logo": "https://bestleague.world/img/telefe.png",
+      "logo": "https://bestleague.pl/img/telefe.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -131,7 +131,7 @@
     },
     {
       "name": "El Trece",
-      "logo": "https://bestleague.world/img/eltrece.webp",
+      "logo": "https://bestleague.pl/img/eltrece.webp",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -161,7 +161,7 @@
     },
     {
       "name": "C5N",
-      "logo": "https://bestleague.world/img/c5n.webp",
+      "logo": "https://bestleague.pl/img/c5n.webp",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -191,7 +191,7 @@
     },
     {
       "name": "TN",
-      "logo": "https://bestleague.world/img/tn.png",
+      "logo": "https://bestleague.pl/img/tn.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -221,7 +221,7 @@
     },
     {
       "name": "Crónica TV",
-      "logo": "https://bestleague.world/img/cronica.png",
+      "logo": "https://bestleague.pl/img/cronica.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -251,7 +251,7 @@
     },
     {
       "name": "A24",
-      "logo": "https://bestleague.world/img/a24.webp",
+      "logo": "https://bestleague.pl/img/a24.webp",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -281,7 +281,7 @@
     },
     {
       "name": "LN+",
-      "logo": "https://bestleague.world/img/ln.webp",
+      "logo": "https://bestleague.pl/img/ln.webp",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -311,7 +311,7 @@
     },
     {
       "name": "Canal 26",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CANAL26.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/CANAL26.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -333,7 +333,7 @@
     },
     {
       "name": "CNN Español",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CNN_ESPAÑOL.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/CNN_ESPAÑOL.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -355,7 +355,7 @@
     },
     {
       "name": "Canal A",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CANAL_A.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/CANAL_A.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -376,38 +376,8 @@
       ]
     },
     {
-      "name": "El Nueve",
-      "logo": "https://bestleague.world/img/nueve.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a08k/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-16.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
       "name": "Nueve Litoral",
-      "logo": "https://bestleague.world/img/nueve.webp",
+      "logo": "https://bestleague.pl/img/nueve.webp",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -437,7 +407,7 @@
     },
     {
       "name": "Somos Santa Fe",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/SOMOS_STAFE.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/SOMOS_STAFE.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -459,7 +429,7 @@
     },
     {
       "name": "Santa Fe Canal",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/RTS_STAFE.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/RTS_STAFE.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -481,7 +451,7 @@
     },
     {
       "name": "Rural",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CANAL_RURAL.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/CANAL_RURAL.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -503,7 +473,7 @@
     },
     {
       "name": "AR 12",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/AR12.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/AR12.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -525,7 +495,7 @@
     },
     {
       "name": "Telemax",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TELEMAX.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/TELEMAX.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -571,7 +541,7 @@
     },
     {
       "name": "TVE",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TVE.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/TVE.png",
       "category": "internacionales",
       "show": true,
       "streamUrl": null,
@@ -615,7 +585,7 @@
     },
     {
       "name": "Telemundo",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TELEMUNDO.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/TELEMUNDO.png",
       "category": "internacionales",
       "show": true,
       "streamUrl": null,
@@ -637,7 +607,7 @@
     },
     {
       "name": "Caracol TV",
-      "logo": "https://bestleague.world/img/caracoltv.webp",
+      "logo": "https://bestleague.pl/img/caracoltv.webp",
       "category": "internacionales",
       "show": true,
       "streamUrl": null,
@@ -681,7 +651,7 @@
     },
     {
       "name": "RT",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/RT.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/RT.png",
       "category": "internacionales",
       "show": true,
       "streamUrl": null,
@@ -703,7 +673,7 @@
     },
     {
       "name": "Las Estrellas",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/LAS_ESTRELLAS.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/LAS_ESTRELLAS.png",
       "category": "internacionales",
       "show": true,
       "streamUrl": null,
@@ -727,7 +697,7 @@
     // ==================== DEPORTES ====================
     {
       "name": "DSports",
-      "logo": "https://bestleague.world/img/dsports.webp",
+      "logo": "https://bestleague.pl/img/dsports.webp",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -749,7 +719,7 @@
     },
     {
       "name": "DSports 2",
-      "logo": "https://bestleague.world/img/dsports2.webp",
+      "logo": "https://bestleague.pl/img/dsports2.webp",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -771,7 +741,7 @@
     },
     {
       "name": "DSports +",
-      "logo": "https://bestleague.world/img/dsportsplus.webp",
+      "logo": "https://bestleague.pl/img/dsportsplus.webp",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -793,7 +763,7 @@
     },
     {
       "name": "TyC Sports",
-      "logo": "https://bestleague.world/img/tyc.webp",
+      "logo": "https://bestleague.pl/img/tyc.webp",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -831,7 +801,7 @@
     },
     {
       "name": "Fox Sports",
-      "logo": "https://bestleague.world/img/foxnew.png",
+      "logo": "https://bestleague.pl/img/foxnew.png",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -853,7 +823,7 @@
     },
     {
       "name": "Fox Sports 2",
-      "logo": "https://bestleague.world/img/foxnew2.png",
+      "logo": "https://bestleague.pl/img/foxnew2.png",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -875,7 +845,7 @@
     },
     {
       "name": "Fox Sports 3",
-      "logo": "https://bestleague.world/img/foxnew3.png",
+      "logo": "https://bestleague.pl/img/foxnew3.png",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -919,7 +889,7 @@
     },
     {
       "name": "ESPN",
-      "logo": "https://bestleague.world/img/espn.webp",
+      "logo": "https://bestleague.pl/img/espn.webp",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -941,7 +911,7 @@
     },
     {
       "name": "ESPN 2",
-      "logo": "https://bestleague.world/img/espn2.webp",
+      "logo": "https://bestleague.pl/img/espn2.webp",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -963,7 +933,7 @@
     },
     {
       "name": "ESPN 3",
-      "logo": "https://bestleague.world/img/espn3.webp",
+      "logo": "https://bestleague.pl/img/espn3.webp",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -985,7 +955,7 @@
     },
     {
       "name": "ESPN Premium",
-      "logo": "https://bestleague.world/img/espnpr.webp",
+      "logo": "https://bestleague.pl/img/espnpr.webp",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -1015,7 +985,7 @@
     },
     {
       "name": "TNT Sports",
-      "logo": "https://bestleague.world/img/tntar.svg",
+      "logo": "https://bestleague.pl/img/tntar.svg",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -1045,7 +1015,7 @@
     },
     {
       "name": "DeportTV",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/DEPORTV.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/DEPORTV.png",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -1080,7 +1050,7 @@
     },
     {
       "name": "Win Sports",
-      "logo": "https://bestleague.world/img/win.webp",
+      "logo": "https://bestleague.pl/img/win.webp",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -1102,7 +1072,7 @@
     },
     {
       "name": "Win Sports+",
-      "logo": "https://bestleague.world/img/winsports.webp",
+      "logo": "https://bestleague.pl/img/winsports.webp",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -1126,7 +1096,7 @@
     // ==================== PELICULAS ====================
     {
       "name": "Cinecanal",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CINECANAL.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/CINECANAL.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1148,7 +1118,7 @@
     },
     {
       "name": "Cinemax",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CINEMAX.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/CINEMAX.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1170,7 +1140,7 @@
     },
     {
       "name": "Cine AR",
-      "logo": "https://bestleague.world/img/cinear.png",
+      "logo": "https://bestleague.pl/img/cinear.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1192,7 +1162,7 @@
     },
     {
       "name": "Space",
-      "logo": "https://bestleague.world/img/space.webp",
+      "logo": "https://bestleague.pl/img/space.webp",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1214,7 +1184,7 @@
     },
     {
       "name": "HBO",
-      "logo": "https://bestleague.world/img/hbo.webp",
+      "logo": "https://bestleague.pl/img/hbo.webp",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1244,7 +1214,7 @@
     },
     {
       "name": "HBO PLUS",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HBO+.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/HBO+.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1266,7 +1236,7 @@
     },
     {
       "name": "HBO Family",
-      "logo": "https://bestleague.world/img/HBOFamily.png",
+      "logo": "https://bestleague.pl/img/HBOFamily.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1288,7 +1258,7 @@
     },
     {
       "name": "HBO Signature",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HBO_SIGNATURE.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/HBO_SIGNATURE.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1310,7 +1280,7 @@
     },
     {
       "name": "HBO XTREME",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HBO_XTREME.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/HBO_XTREME.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1332,7 +1302,7 @@
     },
     {
       "name": "HBO MUNDI",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HBO_MUNDI.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/HBO_MUNDI.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1354,7 +1324,7 @@
     },
     {
       "name": "HBO POP",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HBO_POP.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/HBO_POP.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1376,7 +1346,7 @@
     },
     {
       "name": "HBO 2",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HBO2.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/HBO2.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1398,7 +1368,7 @@
     },
     {
       "name": "AMC",
-      "logo": "https://bestleague.world/img/amc.webp",
+      "logo": "https://bestleague.pl/img/amc.webp",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1428,7 +1398,7 @@
     },
     {
       "name": "AXN",
-      "logo": "https://bestleague.world/img/axn.webp",
+      "logo": "https://bestleague.pl/img/axn.webp",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1458,7 +1428,7 @@
     },
     {
       "name": "Sony",
-      "logo": "https://bestleague.world/img/sony.webp",
+      "logo": "https://bestleague.pl/img/sony.webp",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1488,7 +1458,7 @@
     },
     {
       "name": "TNT",
-      "logo": "https://bestleague.world/img/tnt.webp",
+      "logo": "https://bestleague.pl/img/tnt.webp",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1518,7 +1488,7 @@
     },
     {
       "name": "TNT Series",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TNT_SERIES.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/TNT_SERIES.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1540,7 +1510,7 @@
     },
     {
       "name": "TNT Novelas",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TNT_NOVELAS.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/TNT_NOVELAS.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1562,7 +1532,7 @@
     },
     {
       "name": "Star Channel",
-      "logo": "https://bestleague.world/img/star.webp",
+      "logo": "https://bestleague.pl/img/star.webp",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1592,7 +1562,7 @@
     },
     {
       "name": "Studio Universal",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/STUDIO_UNIVERSAL.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/STUDIO_UNIVERSAL.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1622,7 +1592,7 @@
     },
     {
       "name": "Universal Channel",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/UNsIVERSAL_TV.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/UNsIVERSAL_TV.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1644,7 +1614,7 @@
     },
     {
       "name": "Film & Arts",
-      "logo": "https://bestleague.world/img/FilmyArts.png",
+      "logo": "https://bestleague.pl/img/FilmyArts.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1666,7 +1636,7 @@
     },
     {
       "name": "Paramount",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/PARAMOUNT.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/PARAMOUNT.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1688,7 +1658,7 @@
     },
     {
       "name": "Warner Channel",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/WARNER.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/WARNER.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1710,7 +1680,7 @@
     },
     {
       "name": "Volver",
-      "logo": "https://bestleague.world/img/VOLVER.png",
+      "logo": "https://bestleague.pl/img/VOLVER.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1740,7 +1710,7 @@
     },
     {
       "name": "FX",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/FX.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/FX.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1762,7 +1732,7 @@
     },
     {
       "name": "TCM",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TCM.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/TCM.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1784,7 +1754,7 @@
     },
     {
       "name": "Bravo",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/BRAVO.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/BRAVO.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1806,7 +1776,7 @@
     },
     {
       "name": "A&E",
-      "logo": "https://bestleague.world/img/AyE.png",
+      "logo": "https://bestleague.pl/img/AyE.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1828,7 +1798,7 @@
     },
     {
       "name": "Comedy Central",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/COMEDY%20CENTRAL.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/COMEDY%20CENTRAL.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1858,7 +1828,7 @@
     },
     {
       "name": "Lifetime",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/LIFESTIME.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/LIFESTIME.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1880,7 +1850,7 @@
     },
     {
       "name": "Multivisión",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/MULTIVISION.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/MULTIVISION.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1902,7 +1872,7 @@
     },
     {
       "name": "CanalNet",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/NET_TV.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/NET_TV.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1924,7 +1894,7 @@
     },
     {
       "name": "GarageTV",
-      "logo": "https://bestleague.world/img/garagetv.webp",
+      "logo": "https://bestleague.pl/img/garagetv.webp",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -2000,7 +1970,7 @@
     // ==================== ESTILO DE VIDA ====================
     {
       "name": "El Gourmet",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EL_GOURMET.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EL_GOURMET.png",
       "category": "estilo-vida",
       "show": true,
       "streamUrl": null,
@@ -2030,7 +2000,7 @@
     },
     {
       "name": "E!",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/E_ENTERTAINMENT.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/E_ENTERTAINMENT.png",
       "category": "estilo-vida",
       "show": true,
       "streamUrl": null,
@@ -2060,7 +2030,7 @@
     },
     {
       "name": "TLC",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TLC.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/TLC.png",
       "category": "estilo-vida",
       "show": true,
       "streamUrl": null,
@@ -2092,7 +2062,7 @@
     // ==================== MUSICALES ====================
     {
       "name": "Ciudad Magazine",
-      "logo": "https://bestleague.world/img/ciudad.webp",
+      "logo": "https://bestleague.pl/img/ciudad.webp",
       "category": "musicales",
       "show": true,
       "streamUrl": null,
@@ -2122,7 +2092,7 @@
     },
     {
       "name": "MTV",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/MTV.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/MTV.png",
       "category": "musicales",
       "show": true,
       "streamUrl": null,
@@ -2152,7 +2122,7 @@
     },
     {
       "name": "Quiero Música",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/QUIERO_MUSICA.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/QUIERO_MUSICA.png",
       "category": "musicales",
       "show": true,
       "streamUrl": null,
@@ -2182,7 +2152,7 @@
     },
     {
       "name": "Stingray Concerts",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/STINGRAY_CONCERTS.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/STINGRAY_CONCERTS.png",
       "category": "musicales",
       "show": true,
       "streamUrl": null,
@@ -2204,7 +2174,7 @@
     },
     {
       "name": "Metro",
-      "logo": "https://bestleague.world/img/metro.png",
+      "logo": "https://bestleague.pl/img/metro.png",
       "category": "musicales",
       "show": true,
       "streamUrl": null,
@@ -2226,7 +2196,7 @@
     },
     {
       "name": "KZO",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/KZO.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/KZO.png",
       "category": "musicales",
       "show": true,
       "streamUrl": null,
@@ -2248,7 +2218,7 @@
     },
     {
       "name": "HTV",
-      "logo": "https://bestleague.world/img/htv.webp",
+      "logo": "https://bestleague.pl/img/htv.webp",
       "category": "musicales",
       "show": true,
       "streamUrl": null,
@@ -2270,7 +2240,7 @@
     },
     {
       "name": "CM",
-      "logo": "https://bestleague.world/img/cm.webp",
+      "logo": "https://bestleague.pl/img/cm.webp",
       "category": "musicales",
       "show": true,
       "streamUrl": null,
@@ -2294,7 +2264,7 @@
     // ==================== INFANTILES ====================
     {
       "name": "Disney Channel",
-      "logo": "https://bestleague.world/img/disney.webp",
+      "logo": "https://bestleague.pl/img/disney.webp",
       "category": "infantiles",
       "show": true,
       "streamUrl": null,
@@ -2324,7 +2294,7 @@
     },
     {
       "name": "Cartoon Network",
-      "logo": "https://bestleague.world/img/cn.webp",
+      "logo": "https://bestleague.pl/img/cn.webp",
       "category": "infantiles",
       "show": true,
       "streamUrl": null,
@@ -2354,7 +2324,7 @@
     },
     {
       "name": "Nickelodeon",
-      "logo": "https://bestleague.world/img/nick.png",
+      "logo": "https://bestleague.pl/img/nick.png",
       "category": "infantiles",
       "show": true,
       "streamUrl": null,
@@ -2384,7 +2354,7 @@
     },
     {
       "name": "Paka Paka",
-      "logo": "https://bestleague.world/img/pakapaka.png",
+      "logo": "https://bestleague.pl/img/pakapaka.png",
       "category": "infantiles",
       "show": true,
       "streamUrl": null,
@@ -2414,7 +2384,7 @@
     },
     {
       "name": "Discovery Kids",
-      "logo": "https://bestleague.world/img/diskids.webp",
+      "logo": "https://bestleague.pl/img/diskids.webp",
       "category": "infantiles",
       "show": true,
       "streamUrl": null,
@@ -2444,7 +2414,7 @@
     },
     {
       "name": "Disney Jr",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/DISNEY_JR.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/DISNEY_JR.png",
       "category": "infantiles",
       "show": true,
       "streamUrl": null,
@@ -2466,7 +2436,7 @@
     },
     {
       "name": "Cartoonito",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CARTOONITO.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/CARTOONITO.png",
       "category": "infantiles",
       "show": true,
       "streamUrl": null,
@@ -2488,7 +2458,7 @@
     },
     {
       "name": "Adult Swim",
-      "logo": "https://bestleague.world/img/adults.png",
+      "logo": "https://bestleague.pl/img/adults.png",
       "category": "infantiles",
       "show": true,
       "streamUrl": null,
@@ -2512,7 +2482,7 @@
     // ==================== EDUCATIVOS ====================
     {
       "name": "TECtv",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TEC.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/TEC.png",
       "category": "educativos",
       "show": true,
       "streamUrl": null,
@@ -2534,7 +2504,7 @@
     },
     {
       "name": "Encuentro",
-      "logo": "https://bestleague.world/img/encuentro.webp",
+      "logo": "https://bestleague.pl/img/encuentro.webp",
       "category": "educativos",
       "show": true,
       "streamUrl": null,
@@ -2566,7 +2536,7 @@
     // ==================== DOCUMENTALES ====================
     {
       "name": "History",
-      "logo": "https://bestleague.world/img/history.webp",
+      "logo": "https://bestleague.pl/img/history.webp",
       "category": "documentales",
       "show": true,
       "streamUrl": null,
@@ -2596,7 +2566,7 @@
     },
     {
       "name": "History 2",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HISTORY_2.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/HISTORY_2.png",
       "category": "documentales",
       "show": true,
       "streamUrl": null,
@@ -2618,7 +2588,7 @@
     },
     {
       "name": "Discovery ID",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/DISCOVERY_ID.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/DISCOVERY_ID.png",
       "category": "documentales",
       "show": true,
       "streamUrl": null,
@@ -2640,7 +2610,7 @@
     },
     {
       "name": "H&H",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/H&H.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/H&H.png",
       "category": "documentales",
       "show": true,
       "streamUrl": null,
@@ -2662,7 +2632,7 @@
     },
     {
       "name": "Discovery",
-      "logo": "https://bestleague.world/img/discovery.webp",
+      "logo": "https://bestleague.pl/img/discovery.webp",
       "category": "documentales",
       "show": true,
       "streamUrl": null,
@@ -2692,7 +2662,7 @@
     },
     {
       "name": "Discovery Turbo",
-      "logo": "https://bestleague.world/img/DiscoveryTurbo.png",
+      "logo": "https://bestleague.pl/img/DiscoveryTurbo.png",
       "category": "documentales",
       "show": true,
       "streamUrl": null,
@@ -2714,7 +2684,7 @@
     },
     {
       "name": "Animal Planet",
-      "logo": "https://bestleague.world/img/aplanet.webp",
+      "logo": "https://bestleague.pl/img/aplanet.webp",
       "category": "documentales",
       "show": true,
       "streamUrl": null,
@@ -2744,7 +2714,7 @@
     },
     {
       "name": "National Geographic",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/NATGEO.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/NATGEO.png",
       "category": "documentales",
       "show": true,
       "streamUrl": null,
@@ -2812,7 +2782,7 @@
     },
     {
       "name": "Evento 3",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS3.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS3.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2834,7 +2804,7 @@
     },
     {
       "name": "Evento 4",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS4.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS4.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2856,7 +2826,7 @@
     },
     {
       "name": "Evento 5",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS5.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS5.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2878,7 +2848,7 @@
     },
     {
       "name": "Evento 6",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS6.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS6.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2900,7 +2870,7 @@
     },
     {
       "name": "Evento 7",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS7.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS7.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2922,7 +2892,7 @@
     },
     {
       "name": "Evento 8",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS8.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS8.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2944,7 +2914,7 @@
     },
     {
       "name": "Evento 9",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS9.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS9.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2966,7 +2936,7 @@
     },
     {
       "name": "Evento 10",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS10.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS10.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2988,7 +2958,7 @@
     },
     {
       "name": "Evento 11",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS11.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS11.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -3010,7 +2980,7 @@
     },
     {
       "name": "Evento 12",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS12.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS12.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
