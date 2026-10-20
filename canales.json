@@ -975,7 +975,7 @@
         },
         {
           "name": "Reproductor 2 (WebView)",
-          "iframe": "https://pcn.nebunexa.life/cvatt.html?get=RVNQTl9VWQ==",
+          "iframe": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8",
           "streamType": "iframe",
           "headers": null,
           "drmKeyId": null,
@@ -1006,7 +1006,7 @@
         {
           "name": "Reproductor 2 (WebView, probablemente necesites un mouse)",
           "iframe": "https://tvf90.com/5.php?stream=tntsports",
-          "streamType": "hls",
+          "streamType": "iframe",
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
@@ -2306,7 +2306,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a01v/index.m3u8",
+          "iframe": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -2336,7 +2336,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a08y/index.m3u8",
+          "iframe": "https://stream8.cinerama.uz/1500/playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -2344,7 +2344,7 @@
         },
         {
           "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-33.playlist.m3u8",
+          "iframe": "http://138.59.227.20:8000/play/a08y/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
