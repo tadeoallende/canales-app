@@ -985,7 +985,7 @@
     },
     {
       "name": "TNT Sports",
-      "logo": "https://bestleague.pl/img/tntar.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -1004,8 +1004,8 @@
           "drmKey": null
         },
         {
-          "name": "Reproductor 2",
-          "iframe": "https://tyg2mnl9.fubohd.com/tntsports/mono.m3u8?token=787fda1a9596315a07fb7a89732e96fca08259c9-21-1777769794-1777751794",
+          "name": "Reproductor 2 (WebView, probablemente necesites un mouse)",
+          "iframe": "https://tvf90.com/5.php?stream=tntsports",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
