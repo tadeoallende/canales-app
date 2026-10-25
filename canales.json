@@ -2766,6 +2766,28 @@
     },
 
     // ==================== EVENTOS ====================
+        {
+      "name": "Disney+ 1",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/disney.png",
+      "category": "eventos",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "https://gatonet.site/api/proxy?url=https%3A%2F%2Fteveplay.net%2Fapi%2Fstream%2Fmedia%3Fid%3D11c7cd02ea64ef2d6b7486a4f1454967",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
     {
       "name": "Evento 1",
       "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS1.png",
